@@ -4,7 +4,7 @@ id,url,domain,main_domain,creation_date,updated_date,control_over_dns,domain_ind
 66239a74a9efe18f4d85b32c,https://www.j1meqc.cn/,www.j1meqc.cn,j1meqc.cn,2023-05-26T04:30:50,,FALSE,FALSE,FALSE,FALSE,TRUE,0,0,0,-2,-2,FALSE,TRUE,attackers_domain
 66239a74a9efe18f4d85b32d,https://www.gzshen.cn/,www.gzshen.cn,gzshen.cn,2023-09-19T01:51:04,,FALSE,FALSE,FALSE,TRUE,FALSE,2,-2,-2,69,196,FALSE,TRUE,attackers_domain
 66239a74a9efe18f4d85b32e,https://www.ery8fa.cn/,www.ery8fa.cn,ery8fa.cn,2023-05-26T04:33:59,,TRUE,FALSE,FALSE,FALSE,TRUE,0,0,0,-2,-2,FALSE,TRUE,attackers_domain
-66239a74a9efe18f4d85b32f,https://www.432g.cn/,www.432g.cn,432g.cn,2023-06-21T11:04:33,,FALSE,FALSE,FALSE,TRUE,TRUE,2,-2,-2,387,401,FALSE,TRUE,shared_domain
+66239a74a9efe18f4d85b32f,https://www.432g.cn/,www.432g.cn,432g.cn,2023-06-21T11:04:33,,FALSE,FALSE,FALSE,TRUE,TRUE,2,-2,-2,387,401,FALSE,TRUE,attackers_domain
 66239a74a9efe18f4d85b331,https://tongrenweixiao.com/,tongrenweixiao.com,tongrenweixiao.com,2023-08-09T18:05:28Z,2024-04-11T03:42:56Z,TRUE,FALSE,FALSE,TRUE,TRUE,2,-2,-2,26,105,TRUE,FALSE,compromised_domain
 66239a74a9efe18f4d85b332,https://tllbvpb.cn/,tllbvpb.cn,tllbvpb.cn,2023-09-21T11:54:31,,TRUE,TRUE,FALSE,TRUE,FALSE,2,2,-2,14,189,TRUE,FALSE,attackers_domain
 66239a74a9efe18f4d85b333,https://shtkm7.220d.cn/,shtkm7.220d.cn,220d.cn,2023-06-21T11:47:23,,TRUE,FALSE,FALSE,FALSE,TRUE,0,0,0,-2,-2,FALSE,TRUE,attackers_domain
